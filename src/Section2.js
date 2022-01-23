@@ -8,13 +8,16 @@ import Section2Icons from "./Section2Icons"
         return(
             
             <div className="Section2">
+               
+               <h1>At Your Service</h1>
+               <span> </span>
 
-                <h1>At Your Service</h1>
-                <span> </span>
-
-                <Section2Icons/>
-
-
+                <div className="iconsContainer">
+                        <Section2Icons/>
+                        <Section2Icons/>
+                        <Section2Icons/>
+                        <Section2Icons/>
+                </div>
 
 
 

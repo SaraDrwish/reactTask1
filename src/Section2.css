@@ -1,0 +1,21 @@
+.Section2{
+    color: black;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    
+}
+
+.Section2 span{
+    width: 77px;
+    margin: 2% auto;
+    border-bottom: 4px solid rgb(244, 98, 58);
+    display: block;
+}
+
+.Section2 .iconsContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
