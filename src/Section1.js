@@ -1,6 +1,7 @@
 
 import React from "react" ;
 import "./Section1.css";
+import Section2 from "./Section2";
 import "./index.css";
 
 function Section1(){
@@ -24,6 +25,9 @@ function Section1(){
                     <button>GET STARTED!</button>
 
             </div>
+
+
+            <Section2/>
 
         </div>
 
