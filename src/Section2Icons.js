@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./Section2Icons.css" ;
 
 function Section2Icons(){
     return ( 
@@ -12,7 +12,6 @@ function Section2Icons(){
                <p>Our themes are updated regularly to keep them bug free!</p>
          </div>
             
-
 
 
        </div>

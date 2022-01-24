@@ -20,7 +20,6 @@ import Section2Icons from "./Section2Icons"
                 </div>
 
 
-
             </div>
 
         );

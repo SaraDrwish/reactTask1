@@ -1,21 +1,22 @@
 .Section2{
     color: black;
-    margin: auto;
-    width: 60%;
-    text-align: center;
-    
+    margin: 4% auto;
+    width: 84%;
+    text-align: center; 
 }
-
 .Section2 span{
-    width: 77px;
-    margin: 2% auto;
+    width: 55px;
+    margin: 3% auto;
     border-bottom: 4px solid rgb(244, 98, 58);
     display: block;
 }
-
 .Section2 .iconsContainer{
     display: flex;
     justify-content: center;
     align-items: center;
 
+}
+.Section2 h1 {
+    font-size: 34px;
+    font-weight:400;
 }
